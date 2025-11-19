@@ -2,7 +2,7 @@
 
 ## Glucose Mean and Max
 
-![alt text](plots/Glucose_levels.png)
+![alt text](plots/glucose_levels.png)
 
 ### Report: 
 ##### Based on the graph, the sample mean and population mean for glucose values are very close, with a relative difference of 0.48%, while the sample maximum is moderately lower than the population maximum, with a relative difference of 6.53%. This indicates that the sample is a good representation of the population, effectively capturing the overall distribution and central tendency of glucose values.
